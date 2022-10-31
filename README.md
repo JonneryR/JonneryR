@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonneryR
 - 👀 I’m interested in auto speech recognition.
-- 🌱 I’m currently learning wake up word classifier.
+- 🌱 I’m currently learning about training and optimizing wake up word classifier models.
 
 <!---
 JonneryR/JonneryR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
